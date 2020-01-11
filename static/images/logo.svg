@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="32px" viewBox="0 0 240 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(2.000000, -4.400000)">
+            <g id="Group">
+                <g id="neweramabs-logo" fill="#000000" transform="translate(0.000000, 6.700000)" stroke="#145A00">
+                    <path d="M13.9222568,27.8103125 C6.24218141,27.8103125 0.0162501832,21.5920332 0.0162501832,13.9213969 C0.0162501832,6.25076068 6.24218141,0.0324813772 13.9222568,0.0324813772 C21.6023322,0.0324813772 27.8282634,6.25076068 27.8282634,13.9213969 C27.8282634,21.5920332 21.6023322,27.8103125 13.9222568,27.8103125 Z" id="use3872" stroke-width="2.24608565" fill="#8CE614"></path>
+                    <path d="M1.44782849,6.9220641 C4.28254713,7.38997087 6.83868092,8.4642078 9.37149673,9.26776655 C11.0404423,9.99001086 12.8170244,11.1987009 13.1178986,13.1599697 C13.5195051,15.7263703 12.4747405,18.2136269 11.5863963,20.5595793 C10.8385768,22.4462417 10.0020273,24.2949622 9.23801327,26.17475" id="use3874" stroke-width="2.24858397" fill="none"></path>
+                    <path d="M14.596206,22.6574087 C14.4768672,20.9560104 13.6604583,19.1449606 14.2236007,17.1503834 C14.8235404,14.6750688 17.670734,12.3615808 20.1496115,11.8108033 C21.7953275,11.3299975 23.1462104,11.2901243 25.2677464,10.8996076 C25.4941628,10.8868378 26.9037954,10.6462431 27.1301496,10.660753" id="use3876" stroke-width="2.24858397" fill="none" stroke-linecap="round"></path>
+                    <path d="M9.85955692,6.06275189 C11.3701502,7.96091623 13.1691238,9.76647573 15.4597046,10.6381786 C17.1143275,11.0315109 18.8388486,10.4610025 20.222668,9.53651672 C20.8260631,9.17390555 21.4159041,8.78738799 22.0348904,8.45203937" id="use3878" stroke-width="2.24858397" fill="none" stroke-linecap="round"></path>
+                </g>
+                <text id="/" font-family="Ubuntu" font-size="31" font-weight="normal" fill="#8CE614">
+                    <tspan x="87.5" y="30.1"> </tspan>
+                    <tspan x="94.661" y="30.1" font-family="Ubuntu-Light, Ubuntu" font-weight="300">/</tspan>
+                </text>
+                <text id="new" font-family="Ubuntu" font-size="31" font-weight="normal" fill="#145A00">
+                    <tspan x="27.9" y="29"> </tspan>
+                    <tspan x="35.061" y="29" font-family="Ubuntu-Light, Ubuntu" font-weight="300">new</tspan>
+                </text>
+                <text id="era" font-family="Ubuntu" font-size="31" font-weight="normal" fill="#145A00">
+                    <tspan x="99.6" y="29"> </tspan>
+                    <tspan x="106.761" y="29" font-family="Ubuntu-Light, Ubuntu" font-weight="300">era</tspan>
+                </text>
+                <text id="mabs" font-family="Ubuntu" font-size="31" font-weight="normal" fill="#145A00">
+                    <tspan x="157.8" y="29"> </tspan>
+                    <tspan x="164.961" y="29" font-family="Ubuntu-Light, Ubuntu" font-weight="300">mabs</tspan>
+                </text>
+                <text id="/" font-family="Ubuntu" font-size="31" font-weight="normal" fill="#8CE614">
+                    <tspan x="145.6" y="30.1"> </tspan>
+                    <tspan x="152.761" y="30.1" font-family="Ubuntu-Light, Ubuntu" font-weight="300">/</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
