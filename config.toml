@@ -49,8 +49,15 @@ DefaultContentLanguage = "en"
     # Hero Area Section
     [Languages.en.params.hero]
         enable  = true
-        heading = "Antibodies that just works!"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        heading = "antibodies that just work!"
+        description = """Are you ready to enter a new era of antibody generation? 
+        
+        Antibodies are wonderful and reliable tools but the generation so far is tedious and resource wasting. 
+        To select suitable antibodies is a highly complex task - time to move forward and use technologies which are future-oriented rather than old-fashioned. 
+        We are able to generate your antibody of interest 4 times faster than conventional methods can do. Our approaches are novel, smart and highly efficient.
+
+        Join us and see how we perform…
+        """
         button  = true
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
@@ -58,10 +65,10 @@ DefaultContentLanguage = "en"
         videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 
     # About 2 Section
-    [Languages.en.params.aboutSm]
-        enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+#    [Languages.en.params.aboutSm]
+#        enable  = true
+#        title   = "We have explored the digital landscape with passion for a long time"
+#        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
     # Blog Section On Homepage
     [Languages.en.params.blog]
