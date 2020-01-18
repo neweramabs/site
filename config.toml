@@ -50,19 +50,13 @@ DefaultContentLanguage = "en"
     [Languages.en.params.hero]
         enable  = true
         heading = "antibodies that just work!"
-        description = """Are you ready to enter a new era of antibody generation? 
-        
-        Antibodies are wonderful and reliable tools but the generation so far is tedious and resource wasting. 
-        To select suitable antibodies is a highly complex task - time to move forward and use technologies which are future-oriented rather than old-fashioned. 
-        We are able to generate your antibody of interest 4 times faster than conventional methods can do. Our approaches are novel, smart and highly efficient.
-
-        Join us and see how we perform…
-        """
-        button  = true
+        description = "Antibodies are wonderful and reliable tools but the generation so far is tedious and resource wasting. To select suitable antibodies is a highly complex task - time to move forward and use technologies which are future-oriented rather than old-fashioned."
+        descriptionEnd = "Are you ready to enter a new era of antibody generation?"
+        button  = false
         btnText = "Know More"
         btnURL  = "https://themefisher.com/"
         videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        videoURL   = "https://www.youtube.com/embed/uKYGU5kPRCY"
 
     # About 2 Section
 #    [Languages.en.params.aboutSm]

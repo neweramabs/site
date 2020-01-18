@@ -19,6 +19,9 @@
                     {{ with .Site.Params.hero.description }}
                         <p>{{ . }}</p>
                     {{ end }}
+                    {{ with .Site.Params.hero.descriptionEnd }}
+                        <p>{{ . }}</p>
+                    {{ end }}
                     {{ if .Site.Params.hero.button }}
                         <ul class="list-inline wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".7s">
                             <li class="list-inline-item">

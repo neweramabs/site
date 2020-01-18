@@ -598,7 +598,8 @@ a:focus, a:hover {
 }
 
 .hero-area .block p {
-  color: #707d8f;
+  font-size: 20px;
+  color: rgb(140, 230, 20);
   margin-bottom: 20px;
 }
 
