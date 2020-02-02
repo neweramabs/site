@@ -1,3 +1,3 @@
 # new/era/mabs
 
-Content and theme of neweranmabs.com 
+website content of [new/era/mabs](https://neweramabs.com)
