@@ -1,0 +1,36 @@
+baseurl: "/"
+title: "new/era/mabs"
+init_js: "assets/js/init.js"
+page_load_js: "assets/js/main.js"
+params:
+  palette: green
+  header:
+    title: new/era/mabs
+    logo_img: images/logo.png
+    has_nav: true
+    menu:
+      actions:
+        - label: contact us
+          url_is_relative: false
+          url: "mailto:contact@neweramabs.com?subject=I'm%20interested%20in%20new%2Fera%2Fmabs%20technologies%20and%20services"
+  footer:
+    logo_img: images/logo_alt.png
+    tagline: 
+    has_nav: true
+    nav_title: 
+    has_social: true
+    social_title: 
+    has_subscribe: false
+    subscribe_title: Subscribe
+    subscribe_content: Stay up to date with our latest developments.
+    content: "&copy; new/era/mabs GmbH. All rights reserved."
+    links:
+      - text: Theme based on Stackbit 
+        url: "https://www.stackbit.com"
+        new_window: true
+sass:
+  input_file: sass/main.scss.njk
+  output_file: assets/css/main.css
+  indentWidth: 4
+  outputStyle: nested
+  precision: 10
